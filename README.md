@@ -1,4 +1,4 @@
-# M3-Lipid-Parameters <i>for local use and some parameterization tests</>
+# M3-Lipid-Parameters <i>for local use and some parameterization tests</i>
 
 Home of the open beta reparameterized Martini 3 lipids. 
 
