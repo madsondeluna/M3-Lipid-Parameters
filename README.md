@@ -1,17 +1,27 @@
 # M3-Lipid-Parameters <i>for local use and some parameterization tests</i>
 
-Home of the open beta reparameterized Martini 3 lipids. 
+Home of the Martini 3 lipid parameters. 
 
 ## Citation
 
-Kasper B. Pedersen et al. 2024 DOI TBD
+Until official publication, please cite our preprint:
+
+The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior
+
+26 December 2024, Version 1
+
+Pedersen et al.
+
+DOI: 10.26434/chemrxiv-2024-8bjrr
+
+https://chemrxiv.org/engage/chemrxiv/article-details/67652de681d2151a02594f8d
 
 ## License
 
 The contents of this repository are distributed under the Apache 2.0 license.
 The full text of the license is available in the source repository.
 
-## Contributions
+## Feedback and Contributions
 
 The development of Martini lipids is done on [github]. If you encounter any problems please file an [issue].
 Contributions are welcome as [pull requests]. Note however that the
